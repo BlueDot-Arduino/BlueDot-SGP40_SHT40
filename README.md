@@ -1,5 +1,5 @@
 # BlueDot-SGP40_SHT40
-This library allows the user to program and simultaneously read the outputs of the SGP40 Sensor and the SHT40 Sensor with an Arduino Board.
+This library contains an example sketch to read the sensors SGP40 and SHT40 and is based on the Adafruit libraries for both sensors.
 
 ## **Repository Contents**
 * Source Files (.cpp and .h)
