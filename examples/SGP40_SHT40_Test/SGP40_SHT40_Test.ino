@@ -4,7 +4,7 @@
   written by Thiago Barros for BlueDot UG (haftungsbeschränkt)
   BSD License
   
-  Version 1.0.0 (2023-04-22)
+  Version 1.0.2 (2023-04-23)
 
   This sketch was written for the sensors SGP40 and SHT40 from Sensirion and is based on the Adafruit libraries for these sensors.
   The SGP40 is a device for measuring volatile organic compounds (VOC) and for evaluating indoor air quality.
