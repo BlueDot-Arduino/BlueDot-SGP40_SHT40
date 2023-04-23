@@ -9,8 +9,8 @@
   This sketch was written for the sensors SGP40 and SHT40 from Sensirion and is based on the Adafruit libraries for these sensors.
   The SGP40 is a device for measuring volatile organic compounds (VOC) and for evaluating indoor air quality.
   The SHT40 is a digital temperature and relative humidity sensor.
-  The VOC Algorithm from Sensirion integrates the output values from teh SHT40 to improve the calculation of the VOC index.
-  For more technical information on the SGP40 and on the SHT40, please go to ------> http://www.bluedot.space
+  The VOC Algorithm from Sensirion integrates the output values from the SHT40 to improve the calculation of the VOC index.
+  For more technical information on the SGP40 and on the SHT40, go to ------> http://www.bluedot.space
 
  ***************************************************************************/
 
