@@ -1,4 +1,4 @@
-# BlueDot-SGP40_SHT40
+# BlueDot SGP40 SHT40
 This library contains an example sketch to read the sensors SGP40 and SHT40 and is based on the Adafruit libraries for both sensors.
 
 ## **Repository Contents**
