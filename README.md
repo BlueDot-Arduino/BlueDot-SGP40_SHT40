@@ -9,4 +9,4 @@ This library contains an example sketch to read the sensors SGP40 and SHT40 and 
 
 
 ## **Version History**
-* V1.0.1 - Public Release Version
+* V1.0.2 - Public Release Version
